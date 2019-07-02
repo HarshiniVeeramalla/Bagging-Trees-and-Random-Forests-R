@@ -1,4 +1,3 @@
-setwd("E:\\Kafeel\\ML\\Ensemble")
 hr=read.csv("hr.csv")
 head(hr)
 
